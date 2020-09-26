@@ -44,7 +44,7 @@ const Foods = () => {
         </Navbar>
       </Nav>
       <Switch>
-        <Route path={`${path}/:foodId`}>
+        <Route path={`${path}/:foodCat`}>
           <Food />
         </Route>
         <Redirect to={`${path}/lunch`} />
@@ -55,15 +55,17 @@ const Foods = () => {
 };
 
 const Food = () => {
-  let { foodId } = useParams();
-  const foodList = foods.filter((food) => food.category === foodId).slice(0, 6);
+  let { foodCat } = useParams();
+  const foodList = foods
+    .filter((food) => food.category === foodCat)
+    .slice(0, 6);
   return (
     <Container className="mb-5">
       <Row className="justify-content-center">
         {foodList.map((food) => {
           return (
             <Col xs={10} md="4" className=" p-5 mt-md-0">
-              <Link to={`/${foodId}/${food.id}`}>
+              <Link to={`/${foodCat}/${food.id}`}>
                 <Card className="food text-center border-0">
                   <CardImg top src={food.img} className="p-3" />
                   <h5>{food.title}</h5>
