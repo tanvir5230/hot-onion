@@ -1,7 +1,7 @@
 export const foods = [
   {
     title: "Healthy Meal Plan",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/Ph7HZpK/lunch1.png",
@@ -11,7 +11,7 @@ export const foods = [
   },
   {
     title: "Fried Chicken Bento",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/8Yfk9Y4/lunch2.png",
@@ -21,7 +21,7 @@ export const foods = [
   },
   {
     title: "Trragon-Rubbed-Salmon",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/5BPBJKH/lunch3.png",
@@ -31,7 +31,7 @@ export const foods = [
   },
   {
     title: "Indian Lunch",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/R3rLv58/lunch4.png",
@@ -41,7 +41,7 @@ export const foods = [
   },
   {
     title: "Beaf Steak",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/zxQ2mR3/lunch5.png",
@@ -51,7 +51,7 @@ export const foods = [
   },
   {
     title: "Honey Soy Salmon",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/Vttm4HL/lunch6.png",
@@ -61,7 +61,7 @@ export const foods = [
   },
   {
     title: "Salmon with Grapefruits",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/fqzz97r/dinner1.png",
@@ -71,7 +71,7 @@ export const foods = [
   },
   {
     title: "Lemony Salmon",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/qFcr7vr/dinner2.png",
@@ -81,7 +81,7 @@ export const foods = [
   },
   {
     title: "Pork Tenderiain",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/pLtqXfB/dinner3.png",
@@ -91,7 +91,7 @@ export const foods = [
   },
   {
     title: "Baked Chicken",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/McDVR1C/dinner4.png",
@@ -101,7 +101,7 @@ export const foods = [
   },
   {
     title: "Curlic Butter baked salmon",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/Kynmst1/dinner5.png",
@@ -111,7 +111,7 @@ export const foods = [
   },
   {
     title: "French fries with cheese",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/Kmvyhdn/dinner6.png",
@@ -121,7 +121,7 @@ export const foods = [
   },
   {
     title: "Bagel and cream cheese",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/YWxtdqc/breakfast1.png",
@@ -131,7 +131,7 @@ export const foods = [
   },
   {
     title: "Breakfast sandwich",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/t2pmW5S/breakfast2.png",
@@ -141,7 +141,7 @@ export const foods = [
   },
   {
     title: "baked chicken",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/0FGxwXy/breakfast3.png",
@@ -151,7 +151,7 @@ export const foods = [
   },
   {
     title: "Eggs benedict",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/QC0KJPt/breakfast4.png",
@@ -161,7 +161,7 @@ export const foods = [
   },
   {
     title: "Toast fried Egg Butter",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/pwjPPM3/breakfast5.png",
@@ -171,7 +171,7 @@ export const foods = [
   },
   {
     title: "Full breakfast egg toast",
-    subtitle: "How we dream about our future",
+
     description:
       "Toothsome, strictly used, refers to edible and pleasant food, or you could even write tasty, appetizing or delicious instead, something really pleasant to the sense of taste. But you will see it very often meaning healthy food, good tasting food that has something more than good taste going for it.",
     img: "https://i.ibb.co/fSvwzpZ/breakfast6.png",
